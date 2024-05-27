@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmtayl0r
-- 👀 I’m interested in a transition from UX Design to UX Engineer
-- 🌱 I’m currently learning Full-stack Web Development
+- 👀 I am the Design Systems Lead and Manager at Ecosia 
+- 🌱 I'm currently learning Full-stack Web Development
 - 💞️ I’m looking to collaborate on earnest projects and helpful communities
 - 📫 How to reach me ...
 
